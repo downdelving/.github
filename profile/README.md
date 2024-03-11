@@ -1,1 +1,6 @@
-🛡️ **Downdelving** is an experimental text-based roguelike I'm programming for fun and to improve my skills with Dart, Go, PostgreSQL, and application development within a Kubernetes context.
+🛡️ **Downdelving** is an experimental text-based roguelike I'm writing for fun.
+
+## Repositories
+
+- **[Frontend](https://github.com/downdelving/frontend/)** (Dart/Flutter)
+- **[Backend](https://github.com/downdelving/backend/)** (Go)
