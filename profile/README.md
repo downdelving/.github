@@ -2,5 +2,5 @@
 
 ## Repositories
 
-- **[Frontend](https://github.com/downdelving/frontend/)** (Dart/Flutter)
-- **[Backend](https://github.com/downdelving/backend/)** (Go)
+- 👀 **[Frontend](https://github.com/downdelving/frontend/)** (Dart/Flutter)
+- 🍑 **[Backend](https://github.com/downdelving/backend/)** (Go)
