@@ -1,5 +1,7 @@
 🛡️ **Downdelving** is an experimental text-based roguelike I'm writing for fun.
 
+I haven't really decided if I want to write the backend in Go or Rust, so temporarily I'm doing both.
+
 ## Repositories
 
 - 👀 **[Frontend](https://github.com/downdelving/frontend/)** (Dart)
