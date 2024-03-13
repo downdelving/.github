@@ -4,6 +4,6 @@ I haven't really decided if I want to write the backend in Go or Rust, so tempor
 
 ## Repositories
 
-- 👀 **[Frontend](https://github.com/downdelving/frontend/)** (Dart)
+- 👀 **[Frontend](https://github.com/downdelving/frontend/)** (React)
 - 🍑 **[Go-Backend](https://github.com/downdelving/go-backend/)** (Go)
 - 🦀 **[Rust-Backend](https://github.com/downdelving/rust-backend/)** (Rust)
